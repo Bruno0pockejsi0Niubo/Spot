@@ -1,7 +1,7 @@
 # SPOT – Fishing Log App
 
 **Autor:** Bruno  
-**Studijní obor:** Aplikovaná informatika
+
 
 ---
 
