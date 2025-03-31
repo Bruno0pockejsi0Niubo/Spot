@@ -22,7 +22,7 @@ Projekt je navržen s důrazem na jednoduchost, lokální ukládání dat bez nu
 ## 📈 Ekonomická rozvaha
 
 ### Konkurence
-Na trhu existují aplikace jako Fishbrain, Fishing Points nebo Anglr. Tyto aplikace ale často vyžadují registraci, placený obsah, a jsou složitější na ovládání.
+Na trhu existují aplikace jako Fishbrain nebo Fishsurfing. Tyto aplikace ale často vyžadují registraci, placený obsah, a jsou složitější na ovládání.
 
 ### Výhody SPOTu
 - Jednoduchost a rychlost použití
@@ -31,8 +31,7 @@ Na trhu existují aplikace jako Fishbrain, Fishing Points nebo Anglr. Tyto aplik
 - Možnost integrace navigace
 
 ### Propagace
-- Osobní značka a propagace na sociálních sítích a rybářských skupinách
-- Plakáty a QR kódy na rybářských událostech
+- Propagace mezi kamarády rybáře (na projektu nebylo v plánu zbohatnot)
 
 ### Investice a návratnost
 Aplikace byla vyvinuta zdarma ve volném čase. Možné monetizační modely:
